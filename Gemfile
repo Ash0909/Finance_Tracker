@@ -25,6 +25,7 @@ gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
+gem "stock_quote"
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
